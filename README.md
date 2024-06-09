@@ -7,6 +7,8 @@
 - [Technologies Used](#technologies-used)
 - [Commands ](#commands-used)
 
+## Introduction 
+
 ## Project Features
 - The system adopts a Client-Server Architecture.
 - Can register as a Reporter or Claimant.
