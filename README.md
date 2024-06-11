@@ -8,6 +8,7 @@
 - [Commands ](#commands-used)
 
 ## Introduction 
+A project in Java that implements the Lost and Found system at University. Users can report and view lists of items that are lost and found, enabled through a backend integreation with PHP database.
 
 ## Project Features
 - The system adopts a Client-Server Architecture.
